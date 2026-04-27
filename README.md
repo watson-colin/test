@@ -1,3 +1,3 @@
 # test
 
-win
+Ubuntu 26.04
